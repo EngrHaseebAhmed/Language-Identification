@@ -36,7 +36,7 @@ Classification Report:
    macro avg       0.99      0.99      0.99      2000
 weighted avg       0.99      0.99      0.99      2000
 
-7. Results and Conclusion
+5. Results and Conclusion
 •	The trained language detection model achieved an accuracy of 99%, demonstrating excellent performance on the four selected languages.
 •	The use of character-level TF-IDF features proved highly effective for language modeling.
 •	The system is capable of detecting the language of unseen sentences in real-time with high confidence.
